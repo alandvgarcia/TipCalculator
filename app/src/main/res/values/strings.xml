@@ -6,4 +6,6 @@
     <string name="lbl_check">Check</string>
     <string name="lbl_tip">Tip</string>
     <string name="lbl_total">Total</string>
+
+    <string name="dollar_amount">$%1$.02f</string>
 </resources>

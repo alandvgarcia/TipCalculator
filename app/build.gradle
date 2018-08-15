@@ -39,6 +39,7 @@ dependencies {
     implementation 'com.android.support.constraint:constraint-layout:1.1.2'
     implementation 'com.android.support:design:27.1.1'
     kapt "com.android.databinding:compiler:$android_plugin"
+    implementation "android.arch.lifecycle:extensions:$arch_components"
 
     //teste
     testImplementation 'junit:junit:4.12'

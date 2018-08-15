@@ -5,6 +5,7 @@ buildscript {
         mockito = '2.11.0'
         kotlin_version = '1.2.50'
         android_plugin = "3.1.4"
+        arch_components = "1.1.1"
     }
     repositories {
         google()
